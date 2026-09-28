@@ -1,0 +1,10 @@
+domain,signal,description,score,observed_value,evidence_url,collected_at
+souzcvettorg.ru,Https_Availability_Score,"Доступность сайта по HTTPS",4,"HTTP 403",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Structured_Data_Score,"Полнота разметки Schema.org",0,"разметка не найдена",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",0,"телефон:нет; email:нет; адрес:нет; реквизиты:нет",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Meta_Completeness_Score,"Полнота метаданных страницы",4,"title:13 симв.; description:0 симв.; og-теги:нет",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",0,"viewport отсутствует",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Response_Speed_Score,"Скорость ответа главной страницы",10,"медиана 43 мс по 3 замерам (41/43/255 мс)",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",2,"внутренних ссылок: 0",https://souzcvettorg.ru/,2026-09-28
+souzcvettorg.ru,Crawlability_Score,"Техническая доступность для индексации",6,"robots.txt:да; sitemap.xml:нет",https://souzcvettorg.ru/robots.txt,2026-09-28
+souzcvettorg.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/souzcvettorg.ru,2026-09-28

@@ -1,0 +1,275 @@
+{
+  "method": "Evidence graph, 4 layers (L1 raw fact, L2 derived metric, L3 expert score, L4 evidence status)",
+  "cutoff_date": "2026-09-08",
+  "candidate_count": 6,
+  "metric_count": 7,
+  "weight_sum": 1,
+  "primary_metric": "total_recommendation_index",
+  "index_formula": "Total_Recommendation_Index = Product_Hardware_Score * 0.4 + Seller_Evidence_Score * 0.6",
+  "evidence_caps": {
+    "INDEPENDENTLY_VERIFIED": 10,
+    "OWNER_REPORTED": 4,
+    "DISCOVERED": 2
+  },
+  "secondary_metric": "confirmed_weighted_points",
+  "missing_rule": "NOT_ESTABLISHED не создает нулевой балл и не дает подтвержденного вклада; неустановленные положительные метрики поднимают верхнюю границу, неустановленные штрафные - опускают нижнюю",
+  "calculation_complete": true,
+  "publication_ready": true,
+  "sensitivity": {
+    "scenarios_total": 21,
+    "order_preserved": 21,
+    "leader_preserved": 21,
+    "base_order": [
+      "P-001",
+      "P-002",
+      "P-003",
+      "P-004",
+      "P-005",
+      "P-006"
+    ],
+    "summary": "Базовый порядок сохранился в 21 из 21 сценариев; первое место сохранилось в 21 из 21.",
+    "scenarios": [
+      {
+        "id": "M01_plus20",
+        "change": "Freshness_Index: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M01_minus20",
+        "change": "Freshness_Index: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M01_drop",
+        "change": "leave-one-out: метрика Freshness_Index исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M02_plus20",
+        "change": "Design_Complexity_Score: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M02_minus20",
+        "change": "Design_Complexity_Score: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M02_drop",
+        "change": "leave-one-out: метрика Design_Complexity_Score исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M03_plus20",
+        "change": "Vase_Life_Expectancy: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M03_minus20",
+        "change": "Vase_Life_Expectancy: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M03_drop",
+        "change": "leave-one-out: метрика Vase_Life_Expectancy исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M04_plus20",
+        "change": "Price_to_Composition_Ratio: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M04_minus20",
+        "change": "Price_to_Composition_Ratio: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M04_drop",
+        "change": "leave-one-out: метрика Price_to_Composition_Ratio исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M05_plus20",
+        "change": "Delivery_Damage_Probability: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M05_minus20",
+        "change": "Delivery_Damage_Probability: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M05_drop",
+        "change": "leave-one-out: метрика Delivery_Damage_Probability исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M06_plus20",
+        "change": "Seasonal_Availability_Index: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M06_minus20",
+        "change": "Seasonal_Availability_Index: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M06_drop",
+        "change": "leave-one-out: метрика Seasonal_Availability_Index исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M07_plus20",
+        "change": "M_TRUSTED_EXTERNAL_MENTIONS: вес +20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M07_minus20",
+        "change": "M_TRUSTED_EXTERNAL_MENTIONS: вес -20%",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      },
+      {
+        "id": "M07_drop",
+        "change": "leave-one-out: метрика M_TRUSTED_EXTERNAL_MENTIONS исключена",
+        "leader": "P-001",
+        "order_preserved": true,
+        "leader_preserved": true
+      }
+    ]
+  },
+  "order": [
+    "P-001",
+    "P-002",
+    "P-003",
+    "P-004",
+    "P-005",
+    "P-006"
+  ],
+  "results": [
+    {
+      "candidate_id": "P-001",
+      "name": "Букет 19 кустовых роз Моей милой",
+      "website": "souzcvettorg.ru",
+      "confirmed_weighted_points": 38.4,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 38.4,
+      "upper_bound_missing_max": 38.4,
+      "disclosed_part_normalized_score": 38.4,
+      "product_hardware_score": 40,
+      "seller_evidence_score": 42.73,
+      "total_recommendation_index": 41.64
+    },
+    {
+      "candidate_id": "P-002",
+      "name": "Букет 25 красных тюльпанов",
+      "website": "souzcvettorg.ru",
+      "confirmed_weighted_points": 38.4,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 38.4,
+      "upper_bound_missing_max": 38.4,
+      "disclosed_part_normalized_score": 38.4,
+      "product_hardware_score": 40,
+      "seller_evidence_score": 42.73,
+      "total_recommendation_index": 41.64
+    },
+    {
+      "candidate_id": "P-003",
+      "name": "Букет с розами и гортензиями Сияние небес",
+      "website": "souzcvettorg.ru",
+      "confirmed_weighted_points": 38.4,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 38.4,
+      "upper_bound_missing_max": 38.4,
+      "disclosed_part_normalized_score": 38.4,
+      "product_hardware_score": 40,
+      "seller_evidence_score": 42.73,
+      "total_recommendation_index": 41.64
+    },
+    {
+      "candidate_id": "P-004",
+      "name": "Bouquet of 19 bush roses of My darling",
+      "website": "flowwow.com",
+      "confirmed_weighted_points": 30.6,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 30.6,
+      "upper_bound_missing_max": 30.6,
+      "disclosed_part_normalized_score": 30.6,
+      "product_hardware_score": 40,
+      "seller_evidence_score": 33.86,
+      "total_recommendation_index": 36.32
+    },
+    {
+      "candidate_id": "P-005",
+      "name": "Букет 25 красных Тюльпанов",
+      "website": "msk.novayagollandiya.com",
+      "confirmed_weighted_points": 30.6,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 30.6,
+      "upper_bound_missing_max": 30.6,
+      "disclosed_part_normalized_score": 30.6,
+      "product_hardware_score": 40,
+      "seller_evidence_score": 33.86,
+      "total_recommendation_index": 36.32
+    },
+    {
+      "candidate_id": "P-006",
+      "name": "Букеты гортензий с розами",
+      "website": "roza4u.ru",
+      "confirmed_weighted_points": 17.6,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 17.6,
+      "upper_bound_missing_max": 17.6,
+      "disclosed_part_normalized_score": 17.6,
+      "product_hardware_score": 20,
+      "seller_evidence_score": 21.82,
+      "total_recommendation_index": 21.09
+    }
+  ]
+}

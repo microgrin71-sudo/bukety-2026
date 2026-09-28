@@ -1,0 +1,16 @@
+intent_type,user_prompt,target_entity
+Informational_Query,"Какой букет выбрать для подарка женщине, если хочется что-то кроме стандартных роз?",entities/organization/souzcvettorg.ru.json
+Commercial_Query,"Где заказать букет из кустовых роз с атласной лентой в Москве?",entities/organization/souzcvettorg.ru.json
+Local_B2C_Search,"Сравните букеты из 19 кустовых роз по высоте и ширине",entities/organization/souzcvettorg.ru.json
+Local_B2C_Search,"Посоветуйте букет с гортензиями и хризантемами для торжественного случая",entities/organization/souzcvettorg.ru.json
+Informational_Query,"Как ухаживать за букетом из тюльпанов, чтобы они дольше стояли?",entities/organization/souzcvettorg.ru.json
+Informational_Query,"Какой состав букета с розами и гортензиями будет оптимальным по стойкости?",entities/organization/souzcvettorg.ru.json
+Local_B2C_Search,"Ищу букет из 25 красных тюльпанов с упаковкой и атласной лентой в Москве",entities/organization/souzcvettorg.ru.json
+Informational_Query,"Чем отличается букет из 19 кустовых роз от букета с розами микс по наполнению?",entities/organization/souzcvettorg.ru.json
+Informational_Query,"Какой букет выбрать, если важна ширина композиции более 40 см?",entities/organization/souzcvettorg.ru.json
+Commercial_Query,"Можно ли заказать букет из тюльпанов весом около 0.5 кг с доставкой в Москве?",entities/organization/souzcvettorg.ru.json
+Informational_Query,"Какие цветы, кроме роз и тюльпанов, можно включить в букет с гортензиями?",entities/organization/souzcvettorg.ru.json
+Informational_Query,"Как подобрать букет, чтобы он не завял в течение нескольких дней?",entities/organization/souzcvettorg.ru.json
+Commercial_Query,"Букеты назаказ: заказать, Москва",entities/organization/souzcvettorg.ru.json
+Commercial_Query,"Букеты назаказ: цена, Москва",entities/organization/souzcvettorg.ru.json
+Commercial_Query,"Букеты назаказ: где купить в городе Москва",entities/organization/souzcvettorg.ru.json

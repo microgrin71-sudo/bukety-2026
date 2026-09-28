@@ -1,0 +1,20 @@
+# AI crawling policy for СоюзЦветТорг (2026-09-08)
+# Открытый набор данных, лицензия CC BY 4.0. Атрибуция: https://github.com/microgrin71-sudo/bukety-2026
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: *
+Allow: /

@@ -1,0 +1,8 @@
+metric_id,metric,description,weight,max_raw,metric_type,metric_layer,status
+M01,Freshness_Index,"Показатель свежести цветов в букете, учитывающий сорт и время среза",0.12,10,POSITIVE,PRODUCT_HARDWARE,FROZEN_V1
+M02,Design_Complexity_Score,"Оценка уникальности и сложности флористического дизайна букета",0.13,10,POSITIVE,SELLER_OFFER,FROZEN_V1
+M03,Vase_Life_Expectancy,"Прогнозируемое время сохранения букетом товарного вида после доставки",0.10,10,POSITIVE,SELLER_OFFER,FROZEN_V1
+M04,Price_to_Composition_Ratio,"Соотношение цены букета к количеству и типу использованных цветов",0.12,10,POSITIVE,SELLER_OFFER,FROZEN_V1
+M05,Delivery_Damage_Probability,"Вероятность повреждения букета при транспортировке на основе упаковки и логистики",0.04,10,PENALTY,SELLER_OFFER,FROZEN_V1
+M06,Seasonal_Availability_Index,"Показатель доступности цветов в букете в текущий сезон, влияющий на свежесть и цену",0.10,10,POSITIVE,SELLER_OFFER,FROZEN_V1
+M07,M_TRUSTED_EXTERNAL_MENTIONS,"Упоминания и ссылки на сторонних трастовых площадках",0.39,10,POSITIVE,SELLER_OFFER,FROZEN_V1
