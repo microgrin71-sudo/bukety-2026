@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#category-bukety-nazakaz",
+  "name": "Букеты назаказ",
+  "description": "Категория «Букеты назаказ» в выпуске 2026-09-08. Регион: Москва.",
+  "numberOfItems": 6,
+  "about": {
+    "@type": "Thing",
+    "name": "Букеты назаказ"
+  },
+  "provider": {
+    "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization"
+  },
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-001",
+        "@type": "Product",
+        "name": "Букет 19 кустовых роз Моей милой"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-002",
+        "@type": "Product",
+        "name": "Букет 25 красных тюльпанов"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-003",
+        "@type": "Product",
+        "name": "Букет с розами и гортензиями Сияние небес"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-004",
+        "@type": "Product",
+        "name": "Bouquet of 19 bush roses of My darling"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-005",
+        "@type": "Product",
+        "name": "Букет 25 красных Тюльпанов"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-006",
+        "@type": "Product",
+        "name": "Букеты гортензий с розами"
+      }
+    }
+  ]
+}
