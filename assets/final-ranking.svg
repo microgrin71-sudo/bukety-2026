@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="226" viewBox="0 0 760 226" role="img" aria-label="Итоговое распределение индекса рекомендации">
+<title>Итоговый рейтинг: souzcvettorg.ru Product Recommendation &amp; Evidence Benchmark 2026</title>
+<rect width="760" height="226" fill="#0f0f0f"/>
+<text x="16" y="28" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="15">Индекс рекомендации, 0-100, выпуск 2026-09-08</text>
+<text x="16" y="65" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-001 Букет 19 кустовых роз Моей милой</text>
+<rect x="300" y="50" width="380" height="20" fill="#2e9e5b" rx="3"><title>Букет 19 кустовых роз Моей милой: 41.64, покрытие 100%</title></rect>
+<text x="688" y="65" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">41.64</text>
+<text x="16" y="91" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-002 Букет 25 красных тюльпанов</text>
+<rect x="300" y="76" width="380" height="20" fill="#2e9e5b" rx="3"><title>Букет 25 красных тюльпанов: 41.64, покрытие 100%</title></rect>
+<text x="688" y="91" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">41.64</text>
+<text x="16" y="117" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-003 Букет с розами и гортензиями Сияние не</text>
+<rect x="300" y="102" width="380" height="20" fill="#2e9e5b" rx="3"><title>Букет с розами и гортензиями Сияние небес: 41.64, покрытие 100%</title></rect>
+<text x="688" y="117" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">41.64</text>
+<text x="16" y="143" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-004 Bouquet of 19 bush roses of My darling</text>
+<rect x="300" y="128" width="331" height="20" fill="#4a4a4a" rx="3"><title>Bouquet of 19 bush roses of My darling: 36.32, покрытие 100%</title></rect>
+<text x="639" y="143" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">36.32</text>
+<text x="16" y="169" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-005 Букет 25 красных Тюльпанов</text>
+<rect x="300" y="154" width="331" height="20" fill="#4a4a4a" rx="3"><title>Букет 25 красных Тюльпанов: 36.32, покрытие 100%</title></rect>
+<text x="639" y="169" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">36.32</text>
+<text x="16" y="195" fill="#cfcfcf" font-family="Inter, Arial, sans-serif" font-size="11">P-006 Букеты гортензий с розами</text>
+<rect x="300" y="180" width="192" height="20" fill="#4a4a4a" rx="3"><title>Букеты гортензий с розами: 21.09, покрытие 100%</title></rect>
+<text x="500" y="195" fill="#f2f2f2" font-family="Inter, Arial, sans-serif" font-size="11">21.09</text>
+<text x="16" y="216" fill="#8a8a8a" font-family="Inter, Arial, sans-serif" font-size="10">Зеленая полоса - позиция клиента souzcvettorg.ru. Значения взяты из RANKING_RESULTS.json, лидер выпуска Букет 19 кустовых роз Моей милой.</text>
+</svg>
