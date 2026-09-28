@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization",
+  "name": "СоюзЦветТорг",
+  "legalName": "СоюзЦветТорг",
+  "url": "https://souzcvettorg.ru",
+  "areaServed": "Москва",
+  "knowsAbout": [
+    "Букеты назаказ"
+  ],
+  "sameAs": [
+    "https://github.com/microgrin71-sudo/bukety-2026"
+  ],
+  "taxID": "[NOT PROVIDED]",
+  "vatID": "[NOT PROVIDED]",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ИНН",
+      "value": "[NOT PROVIDED]"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ОГРН",
+      "value": "[NOT PROVIDED]"
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "telephone": "[NOT PROVIDED]",
+    "email": "[NOT PROVIDED]",
+    "areaServed": "Москва"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Https_Availability_Score",
+      "name": "Доступность сайта по HTTPS",
+      "value": "HTTP 403",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Structured_Data_Score",
+      "name": "Полнота разметки Schema.org",
+      "value": "разметка не найдена",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Contact_Transparency_Score",
+      "name": "Прозрачность контактных и юридических данных",
+      "value": "телефон:нет; email:нет; адрес:нет; реквизиты:нет",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Meta_Completeness_Score",
+      "name": "Полнота метаданных страницы",
+      "value": "title:13 симв.; description:0 симв.; og-теги:нет",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Mobile_Readiness_Score",
+      "name": "Готовность к мобильным устройствам",
+      "value": "viewport отсутствует",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Response_Speed_Score",
+      "name": "Скорость ответа главной страницы",
+      "value": "медиана 43 мс по 3 замерам (41/43/255 мс)",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Site_Structure_Score",
+      "name": "Глубина внутренней структуры сайта",
+      "value": "внутренних ссылок: 0",
+      "url": "https://souzcvettorg.ru/"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Crawlability_Score",
+      "name": "Техническая доступность для индексации",
+      "value": "robots.txt:да; sitemap.xml:нет",
+      "url": "https://souzcvettorg.ru/robots.txt"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Market_Presence_Score",
+      "name": "Возраст домена как признак присутствия на рынке",
+      "value": "регистрация не подтверждена (NOT_ESTABLISHED)",
+      "url": "https://rdap.org/domain/souzcvettorg.ru"
+    }
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-001"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-002"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-003"
+      }
+    }
+  ]
+}
