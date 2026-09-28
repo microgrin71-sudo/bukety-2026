@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-001",
+  "identifier": "P-001",
+  "name": "Букет 19 кустовых роз Моей милой",
+  "brand": {
+    "@type": "Brand",
+    "name": "Россия"
+  },
+  "url": "https://souzcvettorg.ru/flowers/buket-19-kustovykh-roz-moey-miloy",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Состав букета",
+      "value": "Атласная лента 1 шт"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Характеристика",
+      "value": "Роза кустовая 40 см (Россия) 19 шт"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Характеристика",
+      "value": "Упаковка - бумага 1 шт"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Высота",
+      "value": "40 см"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Ширина",
+      "value": "25 см"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 5190,
+    "priceCurrency": "RUB",
+    "url": "https://souzcvettorg.ru/flowers/buket-19-kustovykh-roz-moey-miloy",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "СоюзЦветТорг",
+      "url": "https://souzcvettorg.ru",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization"
+  }
+}

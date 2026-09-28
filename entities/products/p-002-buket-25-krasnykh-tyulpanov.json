@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-002",
+  "identifier": "P-002",
+  "name": "Букет 25 красных тюльпанов",
+  "brand": {
+    "@type": "Brand",
+    "name": "СоюзЦветТорг"
+  },
+  "url": "https://souzcvettorg.ru/flowers/buket-25-krasnykh-tyulpanov",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Состав букета",
+      "value": "Тюльпан 25 шт"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Вес",
+      "value": "0.5 кг"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Высота",
+      "value": "30 см"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Ширина",
+      "value": "20 см"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 3990,
+    "priceCurrency": "RUB",
+    "url": "https://souzcvettorg.ru/flowers/buket-25-krasnykh-tyulpanov",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "СоюзЦветТорг",
+      "url": "https://souzcvettorg.ru",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization"
+  }
+}

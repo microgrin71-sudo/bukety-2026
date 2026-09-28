@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-004",
+  "identifier": "P-004",
+  "name": "Bouquet of 19 bush roses of My darling",
+  "brand": {
+    "@type": "Brand",
+    "name": "СоюзЦветТорг Молодежная"
+  },
+  "url": "https://flowwow.com/flowers/buket-19-kustovyh-roz-moey-mil/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Ingredients",
+      "value": "Satin Ribbon 1 pcs"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Характеристика",
+      "value": "packaging - paper 1 pcs"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Характеристика",
+      "value": "russian bush rose 19 pcs"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Width",
+      "value": "40 cm"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Height",
+      "value": "40 cm"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 3944,
+    "priceCurrency": "RUB",
+    "url": "https://flowwow.com/flowers/buket-19-kustovyh-roz-moey-mil/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Flowwow",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization"
+  }
+}

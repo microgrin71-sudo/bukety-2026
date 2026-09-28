@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-005",
+  "identifier": "P-005",
+  "name": "Букет 25 красных Тюльпанов",
+  "brand": {
+    "@type": "Brand",
+    "name": "Новая Голландия"
+  },
+  "url": "https://msk.novayagollandiya.com/catalog/tyulpany/25-krasnykh-tyulpanov/",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Состав",
+      "value": "25 тюльпанов"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Характеристика",
+      "value": "упаковка"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Характеристика",
+      "value": "лента атлас"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Цвет букета",
+      "value": "Красный"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": 3190,
+    "priceCurrency": "RUB",
+    "url": "https://msk.novayagollandiya.com/catalog/tyulpany/25-krasnykh-tyulpanov/",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Новая Голландия",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://github.com/microgrin71-sudo/bukety-2026#P-006",
+  "identifier": "P-006",
+  "name": "Букеты гортензий с розами",
+  "brand": {
+    "@type": "Brand",
+    "name": "roza4u.ru"
+  },
+  "url": "https://www.roza4u.ru/gortenzii/bukety-gortenzij-s-rozami",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "RUB",
+    "url": "https://www.roza4u.ru/gortenzii/bukety-gortenzij-s-rozami",
+    "availableAtOrFrom": {
+      "@type": "Place",
+      "name": "Москва"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "roza4u.ru",
+      "areaServed": "Москва"
+    }
+  },
+  "isRelatedTo": {
+    "@id": "https://github.com/microgrin71-sudo/bukety-2026#organization"
+  }
+}
